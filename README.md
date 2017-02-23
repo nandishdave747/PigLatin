@@ -8,7 +8,8 @@ Step - 2: Run piglatin.py file using python "piglatin.py"
 Step - 3: Microservice Structure
 
 ##URL: 
-```/piglatin```
+```/piglatin
+```
 
 ##Method: 
 ```POST```
